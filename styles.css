@@ -150,6 +150,7 @@ nav a:hover {
   align-items: center;
   padding: 128px clamp(22px, 6vw, 88px) 72px;
   overflow: hidden;
+  color: #f5f7fb;
 }
 
 .ambient-grid {
@@ -213,7 +214,7 @@ nav a:hover {
 .hero-lede {
   max-width: 640px;
   margin: 34px 0 0;
-  color: var(--muted);
+  color: #bcc5d4;
   font-size: clamp(18px, 1.7vw, 24px);
 }
 
@@ -248,7 +249,7 @@ nav a:hover {
 }
 
 .secondary-link {
-  color: var(--ink);
+  color: inherit;
   background: var(--panel);
 }
 
@@ -263,11 +264,14 @@ nav a:hover {
   z-index: 2;
   justify-self: center;
   width: min(440px, 100%);
+  min-width: 0;
   transform-style: preserve-3d;
 }
 
 .portrait-card {
   position: relative;
+  width: 100%;
+  max-width: 440px;
   overflow: hidden;
   aspect-ratio: 1556 / 2776;
   border: 1px solid var(--line);
