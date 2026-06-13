@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Portfolio of Jibitesh Kumar Mishra, focused on AI, systems, and product-minded software engineering.">
+  <meta name="description" content="Jibitesh Kumar Mishra, B.Tech student focused on AI/ML, systems, and software engineering.">
   <title>Jibitesh Kumar Mishra</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,160 +12,107 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="page-shell">
-    <header class="site-header">
-      <a class="wordmark" href="#top" aria-label="Jibitesh home">
-        <span>J</span><span>M</span>
-      </a>
-      <nav aria-label="Primary navigation">
-        <a href="#work">Work</a>
-        <a href="#systems">Systems</a>
-        <a href="#contact">Contact</a>
-      </nav>
-      <button class="theme-toggle" type="button" aria-label="Switch color theme" title="Switch color theme">
-        <span></span>
-      </button>
-    </header>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Jibitesh Kumar Mishra">Jibitesh</a>
+    <nav aria-label="Primary navigation">
+      <a href="#work">Work</a>
+      <a href="#profile">Profile</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
 
-    <main id="top">
-      <section class="hero">
-        <div class="ambient-grid" aria-hidden="true"></div>
-        <div class="signal-field" aria-hidden="true">
-          <span style="--i: 0"></span>
-          <span style="--i: 1"></span>
-          <span style="--i: 2"></span>
-          <span style="--i: 3"></span>
-          <span style="--i: 4"></span>
-          <span style="--i: 5"></span>
-          <span style="--i: 6"></span>
-          <span style="--i: 7"></span>
+  <main id="top">
+    <section class="hero">
+      <div class="hero-text reveal">
+        <p class="eyebrow">AI/ML · DSA · System Design</p>
+        <h1>Jibitesh Kumar Mishra</h1>
+        <p class="lede">B.Tech student building a serious foundation in intelligent software, algorithms, and clean engineering practice.</p>
+        <div class="hero-links">
+          <a href="#work">View work</a>
+          <a href="mailto:jibiteshkumarmishra8027@gmail.com">Contact</a>
         </div>
+      </div>
 
-        <div class="hero-copy reveal">
-          <p class="kicker">AI systems / engineering discipline / product taste</p>
-          <h1>Building intelligent software with a systems mindset.</h1>
-          <p class="hero-lede">I am Jibitesh Kumar Mishra, a B.Tech student focused on AI/ML, algorithms, and the craft of turning experiments into clear, usable systems.</p>
-          <div class="hero-actions">
-            <a class="primary-link" href="#work">Explore work <span aria-hidden="true">&darr;</span></a>
-            <a class="secondary-link" href="mailto:jibiteshkumarmishra8027@gmail.com">Contact</a>
-          </div>
+      <figure class="portrait reveal">
+        <img src="assets/jibitesh-portrait.jpg" width="1556" height="2776" alt="Jibitesh Kumar Mishra speaking with a microphone">
+      </figure>
+    </section>
+
+    <section class="statement reveal" id="profile">
+      <p class="section-label">Profile</p>
+      <h2>I'm learning by building projects that are clear enough to inspect, run, and improve.</h2>
+      <p>My current work sits around AI/ML experiments, generative AI workflows, algorithms, and system design. I care about simple explanations, reproducible notebooks, and documentation that shows the thinking behind the code.</p>
+    </section>
+
+    <section class="work section" id="work">
+      <div class="section-heading reveal">
+        <p class="section-label">Selected Work</p>
+        <h2>Projects</h2>
+      </div>
+
+      <article class="project reveal">
+        <div>
+          <p class="project-type">Featured repository</p>
+          <h3>GemmaX ChatCore</h3>
         </div>
+        <p>A multimodal AI notebook exploring text chat, image understanding, cloud and local inference, conversation history, and function-calling patterns.</p>
+        <ul>
+          <li>Python</li>
+          <li>Jupyter</li>
+          <li>Gemma</li>
+          <li>JAX</li>
+        </ul>
+        <a href="https://github.com/jibitesh-auth/GemmaX_ChatCore">Open repository</a>
+      </article>
 
-        <div class="portrait-stage reveal" data-depth>
-          <div class="portrait-card">
-            <img src="assets/jibitesh-portrait.jpg" width="1556" height="2776" alt="Jibitesh Kumar Mishra speaking with a microphone">
-          </div>
-          <div class="orbit-panel panel-a" aria-hidden="true">
-            <span>Model loop</span>
-            <strong>prompt &rarr; evaluate &rarr; refine</strong>
-          </div>
-          <div class="orbit-panel panel-b" aria-hidden="true">
-            <span>Current stack</span>
-            <strong>Python / JAX / Jupyter</strong>
-          </div>
+      <article class="project muted reveal">
+        <div>
+          <p class="project-type">In progress</p>
+          <h3>Systems Notebook</h3>
         </div>
-      </section>
+        <p>Algorithms, system design notes, and implementation practice collected into a cleaner public study repository.</p>
+        <ul>
+          <li>DSA</li>
+          <li>C++</li>
+          <li>Design notes</li>
+        </ul>
+        <span>Coming soon</span>
+      </article>
+    </section>
 
-      <section class="section manifesto reveal" id="systems">
-        <p class="section-index">01 / Direction</p>
-        <div class="manifesto-grid">
-          <h2>Not chasing noise. Building signal.</h2>
-          <div>
-            <p>I am developing a portfolio around a simple standard: every serious project should explain the problem, the system, the tradeoffs, and the evidence.</p>
-            <p>The goal is not to look busy. The goal is to show judgment.</p>
-          </div>
+    <section class="principles section reveal">
+      <p class="section-label">Working Style</p>
+      <div class="principle-grid">
+        <div>
+          <h3>Clarity first</h3>
+          <p>Explain the problem and tradeoffs before showing results.</p>
         </div>
-      </section>
-
-      <section class="section work-section" id="work">
-        <div class="section-title reveal">
-          <p class="section-index">02 / Work</p>
-          <h2>Selected engineering experiments.</h2>
+        <div>
+          <h3>Small complete systems</h3>
+          <p>Prefer one finished, reproducible project over many unfinished demos.</p>
         </div>
-
-        <article class="case-study reveal">
-          <div class="case-visual">
-            <div class="glass-console">
-              <div class="console-top">
-                <span></span><span></span><span></span>
-                <p>GemmaX ChatCore</p>
-              </div>
-              <div class="console-body">
-                <div class="code-line long"></div>
-                <div class="code-line mid"></div>
-                <div class="prompt-block">
-                  <p>Multimodal input</p>
-                  <strong>image + text + memory</strong>
-                </div>
-                <div class="metric-grid">
-                  <div><span>01</span><p>Cloud inference</p></div>
-                  <div><span>02</span><p>Local path</p></div>
-                  <div><span>03</span><p>Tool calls</p></div>
-                  <div><span>04</span><p>Readable output</p></div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="case-copy">
-            <p class="case-label">Featured repository</p>
-            <h3>GemmaX ChatCore</h3>
-            <p>A multimodal AI notebook for exploring text chat, image understanding, cloud/local inference, conversation history, and function-calling patterns.</p>
-            <div class="case-meta">
-              <span>Python</span>
-              <span>Jupyter</span>
-              <span>Gemma</span>
-              <span>JAX</span>
-            </div>
-            <a class="primary-link dark" href="https://github.com/jibitesh-auth/GemmaX_ChatCore">Open repository <span aria-hidden="true">&nearr;</span></a>
-          </div>
-        </article>
-
-        <div class="work-list reveal">
-          <div>
-            <span>Next</span>
-            <h3>Systems notebook</h3>
-            <p>Algorithms, design notes, and implementation practice.</p>
-          </div>
-          <div>
-            <span>Next</span>
-            <h3>Applied ML study</h3>
-            <p>A complete experiment with evaluation and failure analysis.</p>
-          </div>
+        <div>
+          <h3>Evidence over decoration</h3>
+          <p>Use examples, outputs, and limitations to show real understanding.</p>
         </div>
-      </section>
+      </div>
+    </section>
 
-      <section class="section principles reveal">
-        <p class="section-index">03 / Method</p>
-        <div class="principle-grid">
-          <div>
-            <span>01</span>
-            <h3>Frame before building</h3>
-            <p>Define what useful means before choosing tools or models.</p>
-          </div>
-          <div>
-            <span>02</span>
-            <h3>Prototype the hard part</h3>
-            <p>Test the uncertain piece early, then document what failed.</p>
-          </div>
-          <div>
-            <span>03</span>
-            <h3>Make it repeatable</h3>
-            <p>Leave setup, structure, and reasoning clear enough to revisit.</p>
-          </div>
-        </div>
-      </section>
+    <section class="contact section reveal" id="contact">
+      <p class="section-label">Contact</p>
+      <h2>Open to internships, collaborations, and engineering conversations.</h2>
+      <div class="contact-links">
+        <a href="mailto:jibiteshkumarmishra8027@gmail.com">Email</a>
+        <a href="https://www.linkedin.com/in/jibitesh-kumar-mishra">LinkedIn</a>
+        <a href="https://github.com/jibitesh-auth">GitHub</a>
+      </div>
+    </section>
+  </main>
 
-      <section class="section contact reveal" id="contact">
-        <p class="section-index">04 / Contact</p>
-        <h2>Open to internships, research-minded projects, and strong engineering conversations.</h2>
-        <div class="contact-row">
-          <a href="mailto:jibiteshkumarmishra8027@gmail.com">Email <span>&nearr;</span></a>
-          <a href="https://www.linkedin.com/in/jibitesh-kumar-mishra">LinkedIn <span>&nearr;</span></a>
-          <a href="https://github.com/jibitesh-auth">GitHub <span>&nearr;</span></a>
-        </div>
-      </section>
-    </main>
-  </div>
+  <footer>
+    <p>Jibitesh Kumar Mishra</p>
+    <p>India</p>
+  </footer>
 
   <script src="script.js"></script>
 </body>
