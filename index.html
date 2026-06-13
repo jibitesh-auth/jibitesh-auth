@@ -3,104 +3,121 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Jibitesh Kumar Mishra, B.Tech student focused on AI/ML, systems, and software engineering.">
+  <meta name="description" content="Jibitesh Kumar Mishra - AI/ML, DSA, system design, and software engineering portfolio.">
   <title>Jibitesh Kumar Mishra</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="preload" as="image" href="assets/jibitesh-portrait.jpg">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="site-header">
-    <a class="brand" href="#top" aria-label="Jibitesh Kumar Mishra">Jibitesh</a>
+    <a class="brand" href="#top" aria-label="Jibitesh Kumar Mishra home">Jibitesh</a>
     <nav aria-label="Primary navigation">
-      <a href="#work">Work</a>
       <a href="#profile">Profile</a>
+      <a href="#work">Work</a>
       <a href="#contact">Contact</a>
     </nav>
   </header>
 
   <main id="top">
-    <section class="hero">
-      <div class="hero-text reveal">
-        <p class="eyebrow">AI/ML · DSA · System Design</p>
-        <h1>Jibitesh Kumar Mishra</h1>
-        <p class="lede">B.Tech student building a serious foundation in intelligent software, algorithms, and clean engineering practice.</p>
-        <div class="hero-links">
-          <a href="#work">View work</a>
-          <a href="mailto:jibiteshkumarmishra8027@gmail.com">Contact</a>
+    <section class="hero section-wrap">
+      <div class="hero-grid">
+        <div class="hero-copy reveal">
+          <p class="eyebrow">Portfolio / 2026</p>
+          <h1>Building a foundation for intelligent software.</h1>
+          <p class="lede">I am Jibitesh Kumar Mishra, a B.Tech student focused on AI/ML, algorithms, system design, and the discipline of making technical work clear.</p>
+          <div class="hero-actions">
+            <a class="button primary" href="#work">View work</a>
+            <a class="button secondary" href="mailto:jibiteshkumarmishra8027@gmail.com">Get in touch</a>
+          </div>
+        </div>
+
+        <figure class="portrait-card reveal">
+          <img src="assets/jibitesh-portrait.jpg" width="1556" height="2776" alt="Jibitesh Kumar Mishra speaking at an event">
+          <figcaption>
+            <span>Current focus</span>
+            AI/ML experiments, DSA, and system design.
+          </figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="statement section-wrap reveal" id="profile">
+      <div class="statement-grid">
+        <p class="section-label">Profile</p>
+        <div>
+          <h2>I care about projects that are easy to understand, easy to run, and honest about their limits.</h2>
+          <p>My work is still growing, so the goal is not to look bigger than I am. The goal is to show clear thinking, consistent improvement, and the ability to turn experiments into well-explained systems.</p>
         </div>
       </div>
-
-      <figure class="portrait reveal">
-        <img src="assets/jibitesh-portrait.jpg" width="1556" height="2776" alt="Jibitesh Kumar Mishra speaking with a microphone">
-      </figure>
     </section>
 
-    <section class="statement reveal" id="profile">
-      <p class="section-label">Profile</p>
-      <h2>I'm learning by building projects that are clear enough to inspect, run, and improve.</h2>
-      <p>My current work sits around AI/ML experiments, generative AI workflows, algorithms, and system design. I care about simple explanations, reproducible notebooks, and documentation that shows the thinking behind the code.</p>
+    <section class="focus section-wrap reveal">
+      <div class="focus-grid">
+        <article>
+          <span>01</span>
+          <h3>AI/ML</h3>
+          <p>Model experiments, multimodal workflows, notebooks, and evaluation notes.</p>
+        </article>
+        <article>
+          <span>02</span>
+          <h3>Core CS</h3>
+          <p>Data structures, algorithms, complexity analysis, and implementation practice.</p>
+        </article>
+        <article>
+          <span>03</span>
+          <h3>Systems</h3>
+          <p>Clean architecture, reproducible setup, documentation, and design tradeoffs.</p>
+        </article>
+      </div>
     </section>
 
-    <section class="work section" id="work">
-      <div class="section-heading reveal">
-        <p class="section-label">Selected Work</p>
-        <h2>Projects</h2>
+    <section class="work section-wrap" id="work">
+      <div class="section-header reveal">
+        <p class="section-label">Selected work</p>
+        <h2>One project, presented properly.</h2>
       </div>
 
-      <article class="project reveal">
-        <div>
-          <p class="project-type">Featured repository</p>
+      <article class="project-card reveal">
+        <div class="project-main">
+          <p class="project-kicker">Featured repository</p>
           <h3>GemmaX ChatCore</h3>
+          <p>A multimodal AI notebook exploring text chat, image understanding, cloud and local inference, conversation history, and function-calling patterns.</p>
         </div>
-        <p>A multimodal AI notebook exploring text chat, image understanding, cloud and local inference, conversation history, and function-calling patterns.</p>
-        <ul>
-          <li>Python</li>
-          <li>Jupyter</li>
-          <li>Gemma</li>
-          <li>JAX</li>
-        </ul>
-        <a href="https://github.com/jibitesh-auth/GemmaX_ChatCore">Open repository</a>
-      </article>
-
-      <article class="project muted reveal">
-        <div>
-          <p class="project-type">In progress</p>
-          <h3>Systems Notebook</h3>
+        <div class="project-details">
+          <dl>
+            <div><dt>Stack</dt><dd>Python, Jupyter, Gemma, JAX</dd></div>
+            <div><dt>Status</dt><dd>Active learning project</dd></div>
+            <div><dt>Next</dt><dd>Cleaner setup, examples, and evaluation notes</dd></div>
+          </dl>
+          <a class="button primary" href="https://github.com/jibitesh-auth/GemmaX_ChatCore">Open repository</a>
         </div>
-        <p>Algorithms, system design notes, and implementation practice collected into a cleaner public study repository.</p>
-        <ul>
-          <li>DSA</li>
-          <li>C++</li>
-          <li>Design notes</li>
-        </ul>
-        <span>Coming soon</span>
       </article>
     </section>
 
-    <section class="principles section reveal">
-      <p class="section-label">Working Style</p>
-      <div class="principle-grid">
+    <section class="method section-wrap reveal">
+      <p class="section-label">Working style</p>
+      <div class="method-list">
         <div>
-          <h3>Clarity first</h3>
-          <p>Explain the problem and tradeoffs before showing results.</p>
+          <h3>Start small.</h3>
+          <p>Build the smallest useful version before adding complexity.</p>
         </div>
         <div>
-          <h3>Small complete systems</h3>
-          <p>Prefer one finished, reproducible project over many unfinished demos.</p>
+          <h3>Document decisions.</h3>
+          <p>Explain why the solution works and where it still fails.</p>
         </div>
         <div>
-          <h3>Evidence over decoration</h3>
-          <p>Use examples, outputs, and limitations to show real understanding.</p>
+          <h3>Improve in public.</h3>
+          <p>Use GitHub as a record of steady, visible engineering progress.</p>
         </div>
       </div>
     </section>
 
-    <section class="contact section reveal" id="contact">
+    <section class="contact section-wrap reveal" id="contact">
       <p class="section-label">Contact</p>
-      <h2>Open to internships, collaborations, and engineering conversations.</h2>
+      <h2>Open to internships, collaborations, and thoughtful technical conversations.</h2>
       <div class="contact-links">
         <a href="mailto:jibiteshkumarmishra8027@gmail.com">Email</a>
         <a href="https://www.linkedin.com/in/jibitesh-kumar-mishra">LinkedIn</a>
@@ -110,8 +127,8 @@
   </main>
 
   <footer>
-    <p>Jibitesh Kumar Mishra</p>
-    <p>India</p>
+    <span>Jibitesh Kumar Mishra</span>
+    <span>India</span>
   </footer>
 
   <script src="script.js"></script>
