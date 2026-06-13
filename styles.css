@@ -450,6 +450,11 @@ body.dark {
 }
 
 @media (max-width: 800px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+
   .site-header {
     grid-template-columns: 1fr auto;
     padding: 0 20px;
@@ -485,6 +490,7 @@ body.dark {
   .approach-grid,
   .section-heading {
     grid-template-columns: 1fr;
+    min-width: 0;
   }
 
   .section-heading,
@@ -495,6 +501,7 @@ body.dark {
   .project-visual {
     min-height: 420px;
     padding: 25px;
+    min-width: 0;
   }
 
   .terminal-body {
@@ -502,9 +509,20 @@ body.dark {
     padding: 25px;
   }
 
+  .terminal-bar,
+  .terminal-body,
+  .project-info {
+    min-width: 0;
+  }
+
+  .project-info dl div {
+    grid-template-columns: 70px minmax(0, 1fr);
+  }
+
   .index-row {
     grid-template-columns: 36px 1fr auto;
     gap: 12px;
+    min-width: 0;
   }
 
   .index-row p {
