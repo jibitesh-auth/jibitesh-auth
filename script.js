@@ -9,22 +9,10 @@ const observer = new IntersectionObserver(
       }
     });
   },
-  { threshold: 0.15 }
+  { threshold: 0.18 }
 );
 
 reveals.forEach((element, index) => {
-  // Purposeful technical delay for staggered reveal
-  element.style.transitionDelay = `${Math.min(index * 80, 240)}ms`;
+  element.style.transitionDelay = `${Math.min(index * 70, 210)}ms`;
   observer.observe(element);
 });
-
-// Subtle "System Scan" effect on hero portrait
-const portrait = document.querySelector('.portrait');
-if (portrait) {
-  portrait.addEventListener('mouseenter', () => {
-    portrait.style.borderColor = 'var(--cyan)';
-  });
-  portrait.addEventListener('mouseleave', () => {
-    portrait.style.borderColor = 'var(--line)';
-  });
-}
