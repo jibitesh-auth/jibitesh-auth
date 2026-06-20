@@ -4,8 +4,8 @@
   --muted: #6e6e73;
   --line: #d8d8dc;
   --surface: #ffffff;
-  --blue: #0B3D91;
-  --soft-blue: #e0e9f5;
+  --blue: #0066cc;
+  --soft-blue: #e8f1ff;
   --shadow: 0 18px 60px rgba(0, 0, 0, 0.12);
 }
 
@@ -118,19 +118,10 @@ p {
 }
 
 h1 {
-  margin-bottom: 8px;
+  margin-bottom: 24px;
   font-size: clamp(48px, 7.2vw, 96px);
   font-weight: 800;
   line-height: 0.98;
-  text-transform: uppercase;
-}
-
-.hero-tagline {
-  margin: 0 0 32px;
-  font-size: clamp(14px, 1.5vw, 18px);
-  font-weight: 600;
-  color: var(--muted);
-  letter-spacing: 0.02em;
 }
 
 .lede {
