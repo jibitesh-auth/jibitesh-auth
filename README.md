@@ -31,6 +31,8 @@
 
 > **STATEMENT**: Computer Science undergraduate with interests in **Software Engineering**, **Artificial Intelligence**, and **Aerospace Technology**. Passionate about designing reliable software, understanding intelligent systems, and applying engineering principles to real-world challenges.
 
+---
+
 ### TECHNICAL_OBJECTIVES
 
 - **Algorithms & Problem Solving:** Strengthening foundations in Data Structures, Algorithms, and complexity analysis through consistent practice.
