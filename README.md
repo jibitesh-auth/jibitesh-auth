@@ -86,7 +86,7 @@ graph LR
 <img src="https://img.shields.io/badge/DBMS-Databases-0B3D91?style=flat-square" alt="DBMS" />
     </td>
     <td width="50%" valign="top">
-    <h3>DEVOPS_&_TOOLS</h3>
+    <h3>TOOLS</h3>
 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
