@@ -78,17 +78,19 @@ graph LR
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>CS_FUNDAMENTALS</h3>
-      <img src="https://img.shields.io/badge/DSA-Data%20Structures-00F2FF?style=flat-square" alt="DSA" />
-      <img src="https://img.shields.io/badge/OOP-Object%20Oriented-00F2FF?style=flat-square" alt="OOP" />
-      <img src="https://img.shields.io/badge/OS-Operating%20Systems-00F2FF?style=flat-square" alt="OS" />
-      <img src="https://img.shields.io/badge/DBMS-Databases-00F2FF?style=flat-square" alt="DBMS" />
+<h3>CS_FUNDAMENTALS</h3>
+
+<img src="https://img.shields.io/badge/DSA-Data%20Structures-0B3D91?style=flat-square" alt="DSA" />
+<img src="https://img.shields.io/badge/OOP-Object%20Oriented-0B3D91?style=flat-square" alt="OOP" />
+<img src="https://img.shields.io/badge/OS-Operating%20Systems-0B3D91?style=flat-square" alt="OS" />
+<img src="https://img.shields.io/badge/DBMS-Databases-0B3D91?style=flat-square" alt="DBMS" />
     </td>
     <td width="50%" valign="top">
-      <h3>DEVOPS_&_TOOLS</h3>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+    <h3>DEVOPS_&_TOOLS</h3>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
     </td>
   </tr>
 </table>
