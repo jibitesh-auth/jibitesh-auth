@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=900&height=50&duration=4500&pause=1000&color=00F2FF&lines=Designing+Systems+That+Think;Building+Software+That+Scales;Aiming+Beyond+Earth" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=900&height=50&duration=3000&pause=300&color=00F2FF&lines=Designing+Systems+That+Think;Building+Software+That+Scales;Aiming+Beyond+Earth" />
 </p>
 
 <p align="center">
