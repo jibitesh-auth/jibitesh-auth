@@ -27,9 +27,9 @@
 
 ---
 
-## PROFESSIONAL_SUMMARY: RESEARCH_PROFILE
+## PROFESSIONAL_SUMMARY
 
-> **STATEMENT**: Final-year Computer Science & Engineering student at Silicon University. Architecting intelligent systems at the intersection of **Artificial Intelligence** and **Scalable Software Engineering**. Focused on bridging the gap between theoretical research and production-grade implementation.
+> **STATEMENT**: Computer Science undergraduate with interests in **Software Engineering**, **Artificial Intelligence**, and **Aerospace Technology**. Passionate about designing reliable software, understanding intelligent systems, and applying engineering principles to real-world challenges.
 
 ### TECHNICAL_OBJECTIVES
 - **Algorithm Optimization:** Intensive research into Data Structures and Complexity Analysis for high-performance computing.
