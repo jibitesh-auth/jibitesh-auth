@@ -152,9 +152,9 @@ style F fill:#1a1a1a,stroke:#00F2FF,color:#fff
 <div align="center">
   <h3>CONTRIBUTION_TIMELINE</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jibitesh-auth/jibitesh-auth/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/jibitesh-auth/jibitesh-auth/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://github.com/jibitesh-auth/jibitesh-auth/blob/output/github-contribution-grid-snake.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jibitesh-auth/jibitesh-auth/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jibitesh-auth/jibitesh-auth/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/jibitesh-auth/jibitesh-auth/output/github-contribution-grid-snake.gif" />
   </picture>
 </div>
 
