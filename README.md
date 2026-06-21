@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&height=50&duration=3000&color=00F2FF&lines=CSE+Undergraduate;Aspiring+Software+Engineer;AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=900&height=50&duration=3000&color=00F2FF&lines=Designing+Systems+That+Think;Building+Software+That+Scales;Dreaming+of+Missions+Beyond+Earth" />
 </p>
 
 <p align="center">
