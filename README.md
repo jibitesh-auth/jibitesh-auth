@@ -126,9 +126,10 @@ style F fill:#1a1a1a,stroke:#00F2FF,color:#fff
 ```
 
 ### Technical Implementation Details
-- **Hybrid Inference Orchestration:** Developed a dual-backend system facilitating seamless switching between local JAX-based execution and cloud-hosted API integration.
-- **Multimodal Feature Extraction:** Engineered vision-language bridging for concurrent processing of high-dimensional image and text vector spaces.
-- **Context Preservation:** Implemented a robust state-management module for persistent conversation history across multi-turn inference sessions.
+
+- **Hybrid Inference:** Supports both cloud-hosted and local model execution through a unified workflow.
+- **Multimodal Interaction:** Processes text prompts and image inputs within a single conversational interface.
+- **Conversation Memory:** Maintains chat history to enable context-aware multi-turn interactions.
 
 **TECHNOLOGIES:** `Python` `Gemma` `JAX` `Keras Hub` `Google GenAI API`
 
