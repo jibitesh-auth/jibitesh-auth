@@ -102,19 +102,27 @@ graph LR
 **Multimodal Framework for Advanced AI Inference & Experimentation**
 
 ```mermaid
-graph TD
-    User([User Interaction]) --> Interface{Input Parser}
-    Interface -- "Textual Query" --> LLM[Gemma-2b-IT]
-    Interface -- "Visual Data" --> Vision[SigLIP/Vision Model]
-    LLM --> Inference{Inference Engine}
-    Vision --> Inference
-    Inference -- "Cloud" --> GoogleGenAI[Vertex AI / Gemini API]
-    Inference -- "Local" --> KerasHub[Keras Hub / JAX]
-    GoogleGenAI --> Response([Structured Output])
-    KerasHub --> Response
-    style LLM fill:#1a1a1a,stroke:#00F2FF,stroke-width:1px,color:#fff
-    style Vision fill:#1a1a1a,stroke:#00F2FF,stroke-width:1px,color:#fff
-    style Inference fill:#1a1a1a,stroke:#00F2FF,stroke-width:1px,color:#fff
+graph LR
+
+A([User])
+--> B[GemmaX ChatCore]
+
+B --> C[Text Chat]
+B --> D[Image Understanding]
+B --> E[Function Calling]
+
+C --> F{Inference Engine}
+D --> F
+E --> F
+
+F --> G[Cloud Models]
+F --> H[Local Models]
+
+G --> I([AI Response])
+H --> I
+
+style B fill:#1a1a1a,stroke:#00F2FF,color:#fff
+style F fill:#1a1a1a,stroke:#00F2FF,color:#fff
 ```
 
 ### Technical Implementation Details
