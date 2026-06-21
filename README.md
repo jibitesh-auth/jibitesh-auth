@@ -3,11 +3,11 @@
 <!-- Focus: AI Research & Software Engineering -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B3D91&height=180&section=header&text=JIBITESH%20KUMAR%20MISHRA&fontSize=45&fontColor=ffffff" alt="Jibitesh Kumar Mishra - Software Engineer and AI Researcher" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B3D91&height=180&section=header&text=JIBITESH%20KUMAR%20MISHRA&fontSize=45&fontColor=ffffff&desc=CSE%20Undergraduate%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=70&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=50&duration=4000&color=00F2FF&lines=SYSTEM_CORE_INITIALIZED;AI/ML_RESEARCH_MODULES_ACTIVE;SCALABLE_INTELLIGENCE_ARCHITECTURE;LOCATION:_BHUBANESWAR,_INDIA" alt="Terminal: System Core Initialized, AI/ML Research Active" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&height=50&duration=3000&color=00F2FF&lines=CSE+Undergraduate;Aspiring+Software+Engineer;AI+Enthusiast" />
 </p>
 
 <p align="center">
