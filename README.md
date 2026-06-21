@@ -3,7 +3,7 @@
 <!-- Focus: AI Research & Software Engineering -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B3D91&height=180&section=header&text=JIBITESH%20KUMAR%20MISHRA&fontSize=45&fontColor=ffffff&desc=CSE%20Undergraduate%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=70&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B3D91&height=150&section=header&text=JIBITESH%20KUMAR%20MISHRA&fontSize=42&fontColor=ffffff&desc=Software%20Engineering%20%E2%80%A2%20Artificial%20Intelligence%20%E2%80%A2%20Aerospace&descAlignY=68&descSize=18" />
 </p>
 
 <p align="center">
