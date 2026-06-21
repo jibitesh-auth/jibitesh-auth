@@ -162,10 +162,10 @@ style F fill:#1a1a1a,stroke:#00F2FF,color:#fff
 
 <p align="center">
   <i>
-    "The most important property of a program is whether it accomplishes the intention of its user."
+    "When you look at the stars and the galaxy, you feel that you are not just from any particular piece of land, but from the solar system."
   </i>
   <br>
-  <sub>— C.A.R. Hoare</sub>
+  <sub>— Kalpana Chawla</sub>
 </p>
 
 <p align="center">
