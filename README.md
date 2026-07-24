@@ -1,7 +1,3 @@
-<!-- STRICTLY PROFESSIONAL GITHUB PROFILE README -->
-<!-- Author: Jibitesh Kumar Mishra -->
-<!-- Focus: AI Research & Software Engineering -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0B3D91&height=150&section=header&text=JIBITESH%20KUMAR%20MISHRA&fontSize=42&fontColor=ffffff&desc=Software%20Engineering%20%E2%80%A2%20Artificial%20Intelligence%20%E2%80%A2%20Aerospace&descAlignY=68&descSize=18" />
 </p>
@@ -23,6 +19,10 @@
   <a href="https://www.linkedin.com/in/jibitesh-kumar-mishra" target="_blank" aria-label="LinkedIn">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jibitesh-auth&label=Profile%20Views&color=0B3D91&style=flat" alt="Profile Views" />
 </p>
 
 ---
