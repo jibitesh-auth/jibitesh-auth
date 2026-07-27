@@ -144,11 +144,8 @@ style F fill:#1a1a1a,stroke:#00F2FF,color:#fff
 </p>
 
 <p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jibitesh-auth&theme=tokyonight)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jibitesh-auth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 <div align="center">
