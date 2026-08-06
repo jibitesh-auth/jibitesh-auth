@@ -80,10 +80,9 @@ graph LR
     <td width="50%" valign="top">
 <h3>CS_FUNDAMENTALS</h3>
 
-<img src="https://img.shields.io/badge/DSA-Data%20Structures-0B3D91?style=flat-square" alt="DSA" />
-<img src="https://img.shields.io/badge/OOP-Object%20Oriented-0B3D91?style=flat-square" alt="OOP" />
+<img src="https://img.shields.io/badge/CN-Computer%20Networks-0B3D91?style=flat-square" alt="CN" />
 <img src="https://img.shields.io/badge/OS-Operating%20Systems-0B3D91?style=flat-square" alt="OS" />
-<img src="https://img.shields.io/badge/DBMS-Databases-0B3D91?style=flat-square" alt="DBMS" />
+<img src="https://img.shields.io/badge/DBMS-Database%20Management%20System-0B3D91?style=flat-square" alt="DBMS" />
     </td>
     <td width="50%" valign="top">
     <h3>TOOLS</h3>
