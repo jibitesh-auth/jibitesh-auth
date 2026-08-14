@@ -136,18 +136,6 @@ style F fill:#1a1a1a,stroke:#00F2FF,color:#fff
 
 ---
 
-## SYSTEM_METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jibitesh-auth&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jibitesh-auth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <div align="center">
   <h3>CONTRIBUTION_TIMELINE</h3>
   <picture>
