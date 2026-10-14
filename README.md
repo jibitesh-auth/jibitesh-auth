@@ -1,23 +1,23 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B3D91&height=150&section=header&text=JIBITESH%20KUMAR%20MISHRA&fontSize=42&fontColor=ffffff&desc=Software%20Engineering%20%E2%80%A2%20Artificial%20Intelligence%20%E2%80%A2%20Aerospace&descAlignY=68&descSize=18" alt="Jibitesh Kumar Mishra - Software Engineering, Artificial Intelligence, Aerospace" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B3D91&height=150&section=header&text=JIBITESH%20KUMAR%20MISHRA&fontSize=42&fontColor=ffffff&desc=Software%20Engineering%20%E2%80%A2%20Artificial%20Intelligence%20%E2%80%A2%20Aerospace&descAlignY=68&descSize=18" alt="Jibitesh Kumar Mishra — Software Engineering, Artificial Intelligence, Aerospace" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=900&height=50&duration=3000&pause=300&color=00F2FF&lines=Designing+Systems+That+Think;Building+Software+That+Scales;Aiming+Beyond+Earth" alt="Designing Systems That Think; Building Software That Scales; Aiming Beyond Earth" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=900&height=50&duration=3000&pause=300&color=00F2FF&lines=Designing+Systems+That+Think;Building+Software+That+Scales;Aiming+Beyond+Earth" alt="Designing Systems That Think | Building Software That Scales | Aiming Beyond Earth" />
 </p>
 
 <p align="center">
   <a href="https://jibitesh-portfolio.vercel.app/" target="_blank" aria-label="Portfolio">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0B3D91?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-0B3D91?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/jibitesh-auth/jibitesh-auth/blob/main/assets/resume.pdf" target="_blank" aria-label="Resume">
-    <img src="https://img.shields.io/badge/RESUME-0052FF?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge" />
+    <img src="https://img.shields.io/badge/RESUME-0052FF?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:jibiteshkumarmishra8027@gmail.com" aria-label="Email">
-    <img src="https://img.shields.io/badge/EMAIL-FF0000?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/EMAIL-FF0000?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/jibitesh-kumar-mishra" target="_blank" aria-label="LinkedIn">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 
 ## PROFESSIONAL_SUMMARY
 
-> **STATEMENT**: Computer Science undergraduate with interests in **Software Engineering**, **Artificial Intelligence**, and **Aerospace Technology**. Passionate about designing reliable software, understanding intelligent systems, and applying engineering principles to real-world challenges.
+> **STATEMENT:** Computer Science undergraduate with interests in **Software Engineering**, **Artificial Intelligence**, and **Aerospace Technology**. Passionate about designing reliable software, understanding intelligent systems, and applying engineering principles to real-world challenges.
 
 ### TECHNICAL_OBJECTIVES
 
@@ -41,21 +41,47 @@
 
 ## ENGINEERING_METHODOLOGY (SDLC)
 
-Standardized approach to software development, ensuring rigorous quality control and maintainability.
+A structured software development lifecycle focused on quality, reliability, and maintainability.
 
-```mermaid
-graph LR
-    A["Analysis & Research"] --> B["System Design"]
-    B --> C["Modular Implementation"]
-    C --> D["Testing & Validation"]
-    D --> E["Deployment & Monitoring"]
+<table width="100%">
+  <tr>
+    <td align="center" width="20%">
+      <strong>01</strong><br />
+      🔍<br />
+      <strong>Analysis</strong>
+    </td>
+    <td align="center" width="20%">
+      <strong>02</strong><br />
+      🏗️<br />
+      <strong>Design</strong>
+    </td>
+    <td align="center" width="20%">
+      <strong>03</strong><br />
+      💻<br />
+      <strong>Implementation</strong>
+    </td>
+    <td align="center" width="20%">
+      <strong>04</strong><br />
+      🧪<br />
+      <strong>Testing</strong>
+    </td>
+    <td align="center" width="20%">
+      <strong>05</strong><br />
+      🚀<br />
+      <strong>Deployment</strong>
+    </td>
+  </tr>
+</table>
 
-    style A fill:#1a1a1a,stroke:#00F2FF,color:#fff
-    style B fill:#1a1a1a,stroke:#00F2FF,color:#fff
-    style C fill:#1a1a1a,stroke:#00F2FF,color:#fff
-    style D fill:#1a1a1a,stroke:#00F2FF,color:#fff
-    style E fill:#1a1a1a,stroke:#00F2FF,color:#fff
-```
+<details>
+  <summary><strong>Engineering workflow details</strong></summary>
+
+  - **Analysis & Research:** Understand requirements and constraints.
+  - **System Design:** Define components, interfaces, and data flow.
+  - **Modular Implementation:** Build maintainable and reusable components.
+  - **Testing & Validation:** Verify expected behavior and handle edge cases.
+  - **Deployment & Monitoring:** Release, observe, and improve the system.
+</details>
 
 ---
 
@@ -98,27 +124,58 @@ graph LR
 
 **Multimodal Framework for Advanced AI Inference & Experimentation**
 
-```mermaid
-graph LR
-    A([User]) --> B[GemmaX ChatCore]
-
-    B --> C[Text Chat]
-    B --> D[Image Understanding]
-    B --> E[Function Calling]
-
-    C --> F{Inference Engine}
-    D --> F
-    E --> F
-
-    F --> G[Cloud Models]
-    F --> H[Local Models]
-
-    G --> I([AI Response])
-    H --> I
-
-    style B fill:#1a1a1a,stroke:#00F2FF,color:#fff
-    style F fill:#1a1a1a,stroke:#00F2FF,color:#fff
-```
+<table width="100%">
+  <tr>
+    <td align="center" colspan="3">
+      <strong>USER</strong><br />
+      ↓
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <strong>GemmaX ChatCore</strong><br />
+      <sub>Unified conversational interface</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Text Chat</strong>
+    </td>
+    <td align="center" width="34%">
+      <strong>Image Understanding</strong>
+    </td>
+    <td align="center" width="33%">
+      <strong>Function Calling</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">↓</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <strong>Inference Engine</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">↙ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↘</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>Cloud Models</strong>
+    </td>
+    <td align="center">
+      <strong>Local Models</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">↓</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <strong>AI Response</strong>
+    </td>
+  </tr>
+</table>
 
 ### Technical Implementation Details
 
@@ -147,7 +204,7 @@ graph LR
   <i>
     "When you look at the stars and the galaxy, you feel that you are not just from any particular piece of land, but from the solar system."
   </i>
-  <br>
+  <br />
   <sub>— Kalpana Chawla</sub>
 </p>
 
