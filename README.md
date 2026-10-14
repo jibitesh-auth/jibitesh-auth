@@ -36,6 +36,7 @@
 ### ENGINEERING_METHODOLOGY (SDLC)
 Standardized approach to software development, ensuring rigorous quality control and maintainability.
 
+```mermaid
 graph LR
     A["Analysis & Research"] --> B["System Design"]
     B --> C["Modular Implementation"]
@@ -47,7 +48,7 @@ graph LR
     style C fill:#1a1a1a,stroke:#00F2FF,color:#fff
     style D fill:#1a1a1a,stroke:#00F2FF,color:#fff
     style E fill:#1a1a1a,stroke:#00F2FF,color:#fff
-
+```
 ---
 
 ## TECHNICAL_STACK_&_INSTRUMENTATION
