@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=900&height=50&duration=3000&pause=300&color=00F2FF&lines=Designing+Systems+That+Think;Building+Software+That+Scales;Aiming+Beyond+Earth" alt="Designing Systems That Think; Building Software That Scales; Aiming Beyond Earth" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=900&height=35&duration=3000&pause=300&color=00F2FF&lines=Designing+Systems+That+Think;Building+Software+That+Scales;Aiming+Beyond+Earth" alt="Designing Systems That Think; Building Software That Scales; Aiming Beyond Earth" />
 </p>
-
 <p align="center">
   <a href="https://jibitesh-portfolio.vercel.app/" target="_blank" aria-label="Portfolio">
     <img src="https://img.shields.io/badge/PORTFOLIO-0B3D91?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
@@ -35,23 +34,20 @@
 
 ---
 
-### `ENGINEERING_METHODOLOGY (SDLC)`
-Standardized approach to software development, ensuring rigorous quality control, low-latency performance, and maintainability.
+### ENGINEERING_METHODOLOGY (SDLC)
+Standardized approach to software development, ensuring rigorous quality control and maintainability.
 
-```mermaid
 graph LR
-    A["System Design<br/>& RFCs"] --> B["Modular Code<br/>(C++ / Python)"]
-    B --> C["Automated Testing<br/>& CI/CD"]
-    C --> D["Containerized<br/>Deployment"]
-    D --> E["Telemetry &<br/>Latency Profiling"]
-    E -.->|Feedback Loop| A
+    A["Analysis & Research"] --> B["System Design"]
+    B --> C["Modular Implementation"]
+    C --> D["Testing & Validation"]
+    D --> E["Deployment & Monitoring"]
 
     style A fill:#1a1a1a,stroke:#00F2FF,color:#fff
     style B fill:#1a1a1a,stroke:#00F2FF,color:#fff
-    style C fill:#0B3D91,stroke:#00F2FF,color:#fff,stroke-width:2px
+    style C fill:#1a1a1a,stroke:#00F2FF,color:#fff
     style D fill:#1a1a1a,stroke:#00F2FF,color:#fff
     style E fill:#1a1a1a,stroke:#00F2FF,color:#fff
-```
 
 ---
 
