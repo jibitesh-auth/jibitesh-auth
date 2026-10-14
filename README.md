@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jibitesh-auth.jibitesh-auth" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jibitesh-auth&label=Profile%20Views&color=0B3D91&style=flat" alt="Profile Views" />
 </p>
 
 ---
