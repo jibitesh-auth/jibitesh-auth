@@ -39,20 +39,20 @@
 
 ---
 
-## ENGINEERING_METHODOLOGY (SDLC)
-
-Standardized approach to software development, ensuring rigorous quality control and maintainability.
+### `ENGINEERING_METHODOLOGY (SDLC)`
+Standardized approach to software development, ensuring rigorous quality control, low-latency performance, and maintainability.
 
 ```mermaid
 graph LR
-    A["Analysis & Research"] --> B["System Design"]
-    B --> C["Modular Implementation"]
-    C --> D["Testing & Validation"]
-    D --> E["Deployment & Monitoring"]
+    A["System Design<br/>& RFCs"] --> B["Modular Code<br/>(C++ / Python)"]
+    B --> C["Automated Testing<br/>& CI/CD"]
+    C --> D["Containerized<br/>Deployment"]
+    D --> E["Telemetry &<br/>Latency Profiling"]
+    E -.->|Feedback Loop| A
 
     style A fill:#1a1a1a,stroke:#00F2FF,color:#fff
     style B fill:#1a1a1a,stroke:#00F2FF,color:#fff
-    style C fill:#1a1a1a,stroke:#00F2FF,color:#fff
+    style C fill:#0B3D91,stroke:#00F2FF,color:#fff,stroke-width:2px
     style D fill:#1a1a1a,stroke:#00F2FF,color:#fff
     style E fill:#1a1a1a,stroke:#00F2FF,color:#fff
 ```
