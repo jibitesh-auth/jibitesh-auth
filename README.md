@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-Active-0B3D91?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jibitesh-auth.jibitesh-auth" alt="Profile Views" />
 </p>
 
 ---
