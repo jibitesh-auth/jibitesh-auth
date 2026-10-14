@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjibitesh-auth%2Fjibitesh-auth&count_bg=%230B3D91&title_bg=%231a1a1a&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-Active-0B3D91?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
 </p>
 
 ---
