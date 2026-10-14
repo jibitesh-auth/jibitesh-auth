@@ -22,7 +22,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jibitesh-auth&label=Profile%20Views&color=0B3D91&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jibitesh-auth?label=Profile%20Followers&color=0B3D91&style=flat&logo=github" alt="Profile Followers" />
+  <img src="https://img.shields.io/github/stars/jibitesh-auth?label=Total%20Stars&color=0B3D91&style=flat&logo=github" alt="Total Stars" />
 </p>
 
 ---
@@ -44,11 +45,11 @@
 Standardized systems engineering workflow, ensuring rigorous quality control, low-latency performance, and long-term maintainability.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-Problem_Formulation-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="01 Problem Formulation" />
-  <img src="https://img.shields.io/badge/02-System_Architecture-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="02 System Architecture" />
-  <img src="https://img.shields.io/badge/03-Modular_Execution-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="03 Modular Execution" />
-  <img src="https://img.shields.io/badge/04-Automated_Validation-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="04 Automated Validation" />
-  <img src="https://img.shields.io/badge/05-Deployment_&_Scale-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="05 Deployment & Scale" />
+  <img src="https://img.shields.io/badge/01-Analysis_%26_Research-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="Analysis & Research" /> ➔
+  <img src="https://img.shields.io/badge/02-System_Design-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="System Design" /> ➔
+  <img src="https://img.shields.io/badge/03-Modular_Implementation-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="Modular Implementation" /> ➔
+  <img src="https://img.shields.io/badge/04-Testing_%26_Validation-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="Testing & Validation" /> ➔
+  <img src="https://img.shields.io/badge/05-Deployment_%26_Monitoring-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="Deployment & Monitoring" />
 </p>
 
 ---
@@ -104,9 +105,40 @@ Standardized systems engineering workflow, ensuring rigorous quality control, lo
 
 **Multimodal Framework for Advanced AI Inference & Experimentation**
 
-<p align="center">
-  <img src="https://mermaid.ink/svg/pako:eNqNkcFOwzAMhl8l8tSBBMSNa6cOKHFA2m3S4dJJbK2WJk2VOK0q9d1xWtiAEE7257f_z_6Ta2hQoWbwdbE6pVzhpLRNcfR8yGdxuUhesp3nRVrslvEqyQ88w1H5U7E1Aiq0G2530L3xV1xA71x5oJ34W7qT4hWsaWuhcY32R9F6gY0UN08f_UiqB2lWUnzW9o3T_2d-LsaT8Xgy4xH8Dbr7R1C4sR3H_cY1EioM2yTbxBteRll6jReLZRKnPF8xYowtKe3gXGn0F4p_N2l5p11bQ8fI6sM5mH3tK7R2J90dTWcY0w6aStL5EHyBzlspT9LscTKbaX3P1VepalP5iW6CIdLRTU07R6kPnI40C0z7g4k4cL5I4jhO50z3w73s0M5vI4mrbw?bgColor=!0d1117" alt="GemmaX ChatCore Architecture" width="100%" />
-</p>
+<table width="100%">
+  <tr align="center">
+    <td>
+      <img src="https://img.shields.io/badge/USER_INPUT-1a1a1a?style=for-the-badge" alt="User" /><br/>
+      <sub>Prompt / Media</sub>
+    </td>
+    <td><b>➔</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GemmaX_ChatCore-0B3D91?style=for-the-badge" alt="GemmaX ChatCore" /><br/>
+      <sub>Core Router</sub>
+    </td>
+    <td><b>➔</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Text_Chat-1a1a1a?style=flat-square" alt="Text Chat" /><br/>
+      <img src="https://img.shields.io/badge/Image_Understanding-1a1a1a?style=flat-square" alt="Image Understanding" /><br/>
+      <img src="https://img.shields.io/badge/Function_Calling-1a1a1a?style=flat-square" alt="Function Calling" />
+    </td>
+    <td><b>➔</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Inference_Engine-0B3D91?style=for-the-badge" alt="Inference Engine" /><br/>
+      <sub>Hybrid Dispatch</sub>
+    </td>
+    <td><b>➔</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Cloud_Models-1a1a1a?style=flat-square" alt="Cloud Models" /><br/>
+      <img src="https://img.shields.io/badge/Local_Models-1a1a1a?style=flat-square" alt="Local Models" />
+    </td>
+    <td><b>➔</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AI_RESPONSE-0052FF?style=for-the-badge" alt="AI Response" /><br/>
+      <sub>Structured Output</sub>
+    </td>
+  </tr>
+</table>
 
 ### Technical Implementation Details
 
