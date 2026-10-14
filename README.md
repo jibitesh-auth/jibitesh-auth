@@ -29,29 +29,27 @@
 
 ## PROFESSIONAL_SUMMARY
 
-> **STATEMENT**: Computer Science undergraduate with interests in **Software Engineering**, **Artificial Intelligence**, and **Aerospace Technology**. Passionate about designing reliable software, understanding intelligent systems, and applying engineering principles to real-world challenges.
+> **STATEMENT**: Computer Science undergraduate specializing in **Software Engineering**, **Artificial Intelligence**, and **Aerospace Technology**. Focused on architecting reliable software systems, engineering high-performance intelligent pipelines, and applying rigorous computational principles to complex real-world challenges.
 
 ### TECHNICAL_OBJECTIVES
 
-- **Algorithms & Problem Solving:** Strengthening foundations in Data Structures, Algorithms, and complexity analysis through consistent practice.
-- **Artificial Intelligence:** Exploring machine learning, generative AI, multimodal systems, and real-world AI applications.
-- **Software Engineering:** Building reliable, maintainable software while learning system design, clean architecture, and engineering best practices.
+- **Algorithms & Problem Solving:** Engineering optimal solutions using advanced Data Structures, Algorithmic paradigms, and rigorous time-space complexity analysis.
+- **Artificial Intelligence:** Architecting multimodal AI systems, hybrid local/cloud LLM inference pipelines, and deterministic tool-calling workflows.
+- **Software Engineering:** Designing modular, maintainable software systems built on clean architecture, concurrency principles, and production-grade engineering standards.
 
 ---
 
 ## ENGINEERING_METHODOLOGY (SDLC)
 
-Standardized approach to software development, ensuring rigorous quality control and maintainability.
+Standardized systems engineering workflow, ensuring rigorous quality control, low-latency performance, and long-term maintainability.
 
-```mermaid
-graph LR
-    A["Analysis & Research"] --> B["System Design"]
-    B --> C["Modular Implementation"]
-    C --> D["Testing & Validation"]
-    D --> E["Deployment & Monitoring"]
-
-    classDef default fill:#1a1a1a,stroke:#00F2FF,stroke-width:1.5px,color:#ffffff;
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Problem_Formulation-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="01 Problem Formulation" />
+  <img src="https://img.shields.io/badge/02-System_Architecture-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="02 System Architecture" />
+  <img src="https://img.shields.io/badge/03-Modular_Execution-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="03 Modular Execution" />
+  <img src="https://img.shields.io/badge/04-Automated_Validation-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="04 Automated Validation" />
+  <img src="https://img.shields.io/badge/05-Deployment_&_Scale-1a1a1a?style=for-the-badge&labelColor=0B3D91" alt="05 Deployment & Scale" />
+</p>
 
 ---
 
@@ -62,16 +60,17 @@ graph LR
     <td width="50%" valign="top">
       <h3>CORE_LANGUAGES</h3>
       <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/C++20-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++20" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>AI_&_ML</h3>
       <p>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
         <img src="https://img.shields.io/badge/JAX-9B51E0?style=flat&logo=google&logoColor=white" alt="JAX" />
         <img src="https://img.shields.io/badge/Keras_Hub-D00000?style=flat&logo=keras&logoColor=white" alt="Keras Hub" />
+        <img src="https://img.shields.io/badge/Google_GenAI-4285F4?style=flat&logo=google&logoColor=white" alt="Google GenAI" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
         <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
@@ -82,9 +81,10 @@ graph LR
     <td width="50%" valign="top">
       <h3>CS_FUNDAMENTALS</h3>
       <p>
-        <img src="https://img.shields.io/badge/CN-Computer%20Networks-0B3D91?style=flat" alt="CN" />
-        <img src="https://img.shields.io/badge/OS-Operating%20Systems-0B3D91?style=flat" alt="OS" />
-        <img src="https://img.shields.io/badge/DBMS-Database%20Management%20System-0B3D91?style=flat" alt="DBMS" />
+        <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-0B3D91?style=flat" alt="DSA" />
+        <img src="https://img.shields.io/badge/OS-Operating%20Systems%20%26%20Concurrency-0B3D91?style=flat" alt="OS" />
+        <img src="https://img.shields.io/badge/CN-Distributed%20Systems%20%26%20Networking-0B3D91?style=flat" alt="CN" />
+        <img src="https://img.shields.io/badge/DBMS-Relational%20Database%20Systems-0B3D91?style=flat" alt="DBMS" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -104,35 +104,15 @@ graph LR
 
 **Multimodal Framework for Advanced AI Inference & Experimentation**
 
-```mermaid
-graph LR
-    A(["User"]) --> B["GemmaX ChatCore"]
-
-    B --> C["Text Chat"]
-    B --> D["Image Understanding"]
-    B --> E["Function Calling"]
-
-    C --> F{"Inference Engine"}
-    D --> F
-    E --> F
-
-    F --> G["Cloud Models"]
-    F --> H["Local Models"]
-
-    G --> I(["AI Response"])
-    H --> I
-
-    classDef core fill:#0B3D91,stroke:#00F2FF,stroke-width:2px,color:#ffffff;
-    classDef nodeStyle fill:#1a1a1a,stroke:#00F2FF,stroke-width:1px,color:#ffffff;
-    class B,F core;
-    class A,C,D,E,G,H,I nodeStyle;
-```
+<p align="center">
+  <img src="https://mermaid.ink/svg/pako:eNqNkcFOwzAMhl8l8tSBBMSNa6cOKHFA2m3S4dJJbK2WJk2VOK0q9d1xWtiAEE7257f_z_6Ta2hQoWbwdbE6pVzhpLRNcfR8yGdxuUhesp3nRVrslvEqyQ88w1H5U7E1Aiq0G2530L3xV1xA71x5oJ34W7qT4hWsaWuhcY32R9F6gY0UN08f_UiqB2lWUnzW9o3T_2d-LsaT8Xgy4xH8Dbr7R1C4sR3H_cY1EioM2yTbxBteRll6jReLZRKnPF8xYowtKe3gXGn0F4p_N2l5p11bQ8fI6sM5mH3tK7R2J90dTWcY0w6aStL5EHyBzlspT9LscTKbaX3P1VepalP5iW6CIdLRTU07R6kPnI40C0z7g4k4cL5I4jhO50z3w73s0M5vI4mrbw?bgColor=!0d1117" alt="GemmaX ChatCore Architecture" width="100%" />
+</p>
 
 ### Technical Implementation Details
 
-- **Hybrid Inference:** Supports both cloud-hosted and local model execution through a unified workflow.
-- **Multimodal Interaction:** Processes text prompts and image inputs within a single conversational interface.
-- **Conversation Memory:** Maintains chat history to enable context-aware multi-turn interactions.
+- **Hybrid Execution Engine:** Unifies hardware-accelerated local model inference (`JAX` / `Keras Hub`) with cloud-scale execution (`Google GenAI API`) through a single routing abstraction.
+- **Multimodal & Tool Calling:** Processes simultaneous text prompts and visual inputs alongside deterministic function-calling pipelines within a unified interface.
+- **Stateful Context Management:** Maintains structured multi-turn conversation memory for context-aware reasoning and experimentation.
 
 **TECHNOLOGIES:** `Python` `Gemma` `JAX` `Keras Hub` `Google GenAI API`
 
