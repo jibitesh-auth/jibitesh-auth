@@ -21,9 +21,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jibitesh-auth&label=Profile%20Views&color=0B3D91&style=flat" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=jibitesh-auth&label=Profile%20Views&color=0B3D91&style=flat)
 
 ---
 
