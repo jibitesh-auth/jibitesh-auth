@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=900&height=30&duration=3000&pause=300&color=00F2FF&lines=Designing+Systems+That+Think;Building+Software+That+Scales;Aiming+Beyond+Earth" alt="Designing Systems That Think; Building Software That Scales; Aiming Beyond Earth" />
 </p><p align="center">
-  <a href="https://jibitesh-portfolio.vercel.app/" target="_blank" aria-label="Portfolio">
+  <a href="https://astrojibitesh.runs-on.dev/" target="_blank" aria-label="Portfolio">
     <img src="https://img.shields.io/badge/PORTFOLIO-0B3D91?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
   </a>
   <a href="https://github.com/jibitesh-auth/jibitesh-auth/blob/main/assets/resume.pdf" target="_blank" aria-label="Resume">
